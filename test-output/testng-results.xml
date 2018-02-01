@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40365" started-at="2018-02-01T05:52:37Z" finished-at="2018-02-01T05:53:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40365" started-at="2018-02-01T05:52:37Z" finished-at="2018-02-01T05:53:17Z">
+      <class name="com.catalog.test.CatalogTest">
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.catalog.test.CatalogTest@1d29cf23]" name="setUpBrowser" is-config="true" duration-ms="2792" started-at="2018-01-31T21:52:37Z" finished-at="2018-01-31T21:52:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="testLoginCustomer()[pri:0, instance:com.catalog.test.CatalogTest@1d29cf23]" name="testLoginCustomer" duration-ms="11858" started-at="2018-01-31T21:52:39Z" finished-at="2018-01-31T21:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginCustomer -->
+        <test-method status="PASS" signature="testNewProductLink()[pri:0, instance:com.catalog.test.CatalogTest@1d29cf23]" name="testNewProductLink" duration-ms="23217" started-at="2018-01-31T21:52:51Z" finished-at="2018-01-31T21:53:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewProductLink -->
+        <test-method status="PASS" signature="testSortProductManufacturer()[pri:0, instance:com.catalog.test.CatalogTest@1d29cf23]" name="testSortProductManufacturer" duration-ms="1815" started-at="2018-01-31T21:53:15Z" finished-at="2018-01-31T21:53:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSortProductManufacturer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.catalog.test.CatalogTest@1d29cf23]" name="tearDown" is-config="true" duration-ms="648" started-at="2018-01-31T21:53:16Z" finished-at="2018-01-31T21:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.catalog.test.CatalogTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
