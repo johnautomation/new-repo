@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14907" started-at="2018-02-02T03:39:43Z" finished-at="2018-02-02T03:39:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14907" started-at="2018-02-02T03:39:43Z" finished-at="2018-02-02T03:39:58Z">
+      <class name="com.merkatodemo.NewClass">
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.merkatodemo.NewClass@1d29cf23]" name="setUpBrowser" is-config="true" duration-ms="4389" started-at="2018-02-01T19:39:43Z" finished-at="2018-02-01T19:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="testLoginCustomer()[pri:0, instance:com.merkatodemo.NewClass@1d29cf23]" name="testLoginCustomer" duration-ms="5780" started-at="2018-02-01T19:39:47Z" finished-at="2018-02-01T19:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginCustomer -->
+        <test-method status="PASS" signature="testNewProductLink()[pri:0, instance:com.merkatodemo.NewClass@1d29cf23]" name="testNewProductLink" duration-ms="3848" started-at="2018-02-01T19:39:53Z" finished-at="2018-02-01T19:39:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewProductLink -->
+        <test-method status="PASS" signature="testSortProductManufacturer()[pri:0, instance:com.merkatodemo.NewClass@1d29cf23]" name="testSortProductManufacturer" duration-ms="245" started-at="2018-02-01T19:39:57Z" finished-at="2018-02-01T19:39:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSortProductManufacturer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merkatodemo.NewClass@1d29cf23]" name="tearDown" is-config="true" duration-ms="607" started-at="2018-02-01T19:39:57Z" finished-at="2018-02-01T19:39:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.merkatodemo.NewClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
